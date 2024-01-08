@@ -1,0 +1,25 @@
+.banner-image {
+    position: relative;
+    padding: 30px 50px 30px 50px;
+}
+
+.banner-text {
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    top: 25%;
+    color: #fff;
+    padding: 30px 50px 30px 50px;
+}
+
+.banner-text h4 {
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.banner-text h1 {
+    font-size: 72px;
+    font-weight: 900;
+    /* 131.944% */
+}
