@@ -159,3 +159,115 @@ banner-image {
     border-radius: 463px;
     border: 15px solid #F00;
 }
+
+.What-is {
+    text-align: center;
+    line-height: 1%;
+}
+
+.What-is .fun-is {
+    color: #070211;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.What-is .ipsem {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
+}
+
+.upload-p {
+    margin-block: 40%;
+}
+
+.upload-p .rec-1 {
+    border-radius: 16px 16px 0px 0px;
+    background: url(<path-to-image>), lightgray -59.98px 0px / 151.553% 100% no-repeat;
+}
+
+.fth-line {
+    line-height: 1px;
+}
+
+.fth-line .best-gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.fth-line .portfolio {
+    color: #070211;
+    font-size: 30px;
+    font-weight: 90;
+    text-transform: capitalize;
+}
+
+.fth-line .para-graph {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.sq {
+    border-radius: 16px;
+    gap: 50px;
+}
+
+.email-e {
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-block: 15%;
+    text-align: center;
+    padding: 50px 30px 50px 30px;
+}
+
+.email-e .subs {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.email-e .same {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.fo {
+    background: #070211;
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+    display: flex;
+}
+
+.fo .write {
+    color: #FFF;
+    font-size: 24px;
+    top: 25%;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+}
+
+.call {
+    justify-content: space-between;
+}
