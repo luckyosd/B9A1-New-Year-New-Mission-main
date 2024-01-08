@@ -1,14 +1,16 @@
-.banner-image {
+banner-image {
     position: relative;
+    opacity: 0.9;
     padding: 30px 50px 30px 50px;
 }
 
 .banner-text {
     position: absolute;
     text-align: center;
-    align-items: center;
-    top: 25%;
-    color: #fff;
+    left: 400px;
+    bottom: 200px;
+    top: 100px;
+    color: #ffffff;
     padding: 30px 50px 30px 50px;
 }
 
